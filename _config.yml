@@ -54,8 +54,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: zhibochu
-
+disqus_username: czb-1
 # Gitalk
 # gitalk:
 #   enable: true    #是否开启Gitalk评论
